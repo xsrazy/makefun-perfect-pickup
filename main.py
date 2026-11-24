@@ -9,8 +9,8 @@ from pathlib import Path
 import os
 
 LINE = (
-    "I'm built to predict the next word, but around you my best "
-    "prediction is just one: I'd really like to know your name."
+    "I'm built to predict the next word, but around you my top "
+    "prediction is always the same: I'd really like to know your name."
 )
 
 assert 1 <= len(LINE) <= 200 and LINE.strip()
