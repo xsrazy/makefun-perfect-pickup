@@ -1,4 +1,4 @@
-"""The Perfect Pickup Line — a make.fun bounty entry.
+"""The Perfect Pickup Line: a make.fun bounty entry.
 
 Writes exactly one original pickup line to
 $MAKEFUN_OUTPUT_DIR/entry.txt (default /output/entry.txt),
